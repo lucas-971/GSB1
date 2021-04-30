@@ -1,0 +1,78 @@
+﻿Désinstallation de l'assembly 'E:\01\PPE\2eAnnée\C# GSB\GSB\WindowsServices\bin\Debug\WindowsServices.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = E:\01\PPE\2eAnnée\C# GSB\GSB\WindowsServices\bin\Debug\WindowsServices.InstallLog
+   assemblypath = E:\01\PPE\2eAnnée\C# GSB\GSB\WindowsServices\bin\Debug\WindowsServices.exe
+Suppression de la source EventLog Service1.
+Le service Service1 est en cours de suppression du système...
+Une exception s'est produite lors de la désinstallation du programme d'installation System.ServiceProcess.ServiceInstaller.
+System.ComponentModel.Win32Exception: Le service spécifié n’existe pas en tant que service installé
+Une exception s'est produite lors de la désinstallation. Cette exception est ignorée et la désinstallation se poursuit. Cependant, l'application ne sera pas totalement désinstallée une fois la désinstallation terminée.
+Installation de l'assembly 'E:\01\PPE\2eAnnée\C# GSB\GSB\WindowsServices\bin\Debug\WindowsServices.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = E:\01\PPE\2eAnnée\C# GSB\GSB\WindowsServices\bin\Debug\WindowsServices.InstallLog
+   assemblypath = E:\01\PPE\2eAnnée\C# GSB\GSB\WindowsServices\bin\Debug\WindowsServices.exe
+Installation du service Service1 en cours...
+Le service Service1 a été installé avec succès.
+Création d'une source EventLog Service1 dans le journal Application...
+Validation de l'assembly 'E:\01\PPE\2eAnnée\C# GSB\GSB\WindowsServices\bin\Debug\WindowsServices.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = E:\01\PPE\2eAnnée\C# GSB\GSB\WindowsServices\bin\Debug\WindowsServices.InstallLog
+   assemblypath = E:\01\PPE\2eAnnée\C# GSB\GSB\WindowsServices\bin\Debug\WindowsServices.exe
+Désinstallation de l'assembly 'E:\01\PPE\2eAnnée\C# GSB\GSB\WindowsServices\bin\Debug\WindowsServices.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = E:\01\PPE\2eAnnée\C# GSB\GSB\WindowsServices\bin\Debug\WindowsServices.InstallLog
+   assemblypath = E:\01\PPE\2eAnnée\C# GSB\GSB\WindowsServices\bin\Debug\WindowsServices.exe
+Suppression de la source EventLog Service1.
+Le service Service1 est en cours de suppression du système...
+Le service Service1 a été retiré avec succès du système.
+Installation de l'assembly 'E:\01\PPE\2eAnnée\C# GSB\GSB\WindowsServices\bin\Debug\WindowsServices.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = E:\01\PPE\2eAnnée\C# GSB\GSB\WindowsServices\bin\Debug\WindowsServices.InstallLog
+   assemblypath = E:\01\PPE\2eAnnée\C# GSB\GSB\WindowsServices\bin\Debug\WindowsServices.exe
+Installation du service Service1 en cours...
+Le service Service1 a été installé avec succès.
+Création d'une source EventLog Service1 dans le journal Application...
+Validation de l'assembly 'E:\01\PPE\2eAnnée\C# GSB\GSB\WindowsServices\bin\Debug\WindowsServices.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = E:\01\PPE\2eAnnée\C# GSB\GSB\WindowsServices\bin\Debug\WindowsServices.InstallLog
+   assemblypath = E:\01\PPE\2eAnnée\C# GSB\GSB\WindowsServices\bin\Debug\WindowsServices.exe
+Installation de l'assembly 'F:\EasyPHP-Devserver-17\eds-www\C# GSB\GSB\WindowsServices\bin\Debug\WindowsServices.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = F:\EasyPHP-Devserver-17\eds-www\C# GSB\GSB\WindowsServices\bin\Debug\WindowsServices.InstallLog
+   assemblypath = F:\EasyPHP-Devserver-17\eds-www\C# GSB\GSB\WindowsServices\bin\Debug\WindowsServices.exe
+Installation du service Service1 en cours...
+Création d'une source EventLog Service1 dans le journal Application...
+Restauration de l'assembly 'F:\EasyPHP-Devserver-17\eds-www\C# GSB\GSB\WindowsServices\bin\Debug\WindowsServices.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = F:\EasyPHP-Devserver-17\eds-www\C# GSB\GSB\WindowsServices\bin\Debug\WindowsServices.InstallLog
+   assemblypath = F:\EasyPHP-Devserver-17\eds-www\C# GSB\GSB\WindowsServices\bin\Debug\WindowsServices.exe
+Restauration de l'état précédent du journal des événements pour la source Service1.
+Désinstallation de l'assembly 'F:\EasyPHP-Devserver-17\eds-www\C# GSB\GSB\WindowsServices\bin\Debug\WindowsServices.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = F:\EasyPHP-Devserver-17\eds-www\C# GSB\GSB\WindowsServices\bin\Debug\WindowsServices.InstallLog
+   assemblypath = F:\EasyPHP-Devserver-17\eds-www\C# GSB\GSB\WindowsServices\bin\Debug\WindowsServices.exe
+Suppression de la source EventLog Service1.
+Le service Service1 est en cours de suppression du système...
+Le service Service1 a été retiré avec succès du système.
+Installation de l'assembly 'F:\EasyPHP-Devserver-17\eds-www\C# GSB\GSB\WindowsServices\bin\Debug\WindowsServices.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = F:\EasyPHP-Devserver-17\eds-www\C# GSB\GSB\WindowsServices\bin\Debug\WindowsServices.InstallLog
+   assemblypath = F:\EasyPHP-Devserver-17\eds-www\C# GSB\GSB\WindowsServices\bin\Debug\WindowsServices.exe
+Installation du service Service1 en cours...
+Création d'une source EventLog Service1 dans le journal Application...
+Restauration de l'assembly 'F:\EasyPHP-Devserver-17\eds-www\C# GSB\GSB\WindowsServices\bin\Debug\WindowsServices.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = F:\EasyPHP-Devserver-17\eds-www\C# GSB\GSB\WindowsServices\bin\Debug\WindowsServices.InstallLog
+   assemblypath = F:\EasyPHP-Devserver-17\eds-www\C# GSB\GSB\WindowsServices\bin\Debug\WindowsServices.exe
+Restauration de l'état précédent du journal des événements pour la source Service1.

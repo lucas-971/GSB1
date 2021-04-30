@@ -1,0 +1,83 @@
+﻿
+
+La désinstallation a commencé.
+Consultez le contenu du fichier journal pour l'avancement de l'assembly E:\01\PPE\2eAnnée\C# GSB\GSB\WindowsServices\bin\Debug\WindowsServices.exe.
+Le fichier se trouve à E:\01\PPE\2eAnnée\C# GSB\GSB\WindowsServices\bin\Debug\WindowsServices.InstallLog.
+
+La désinstallation est terminée.
+
+Exécution d'une installation traitée avec transaction.
+
+Début de la phase d'installation de l'installation.
+Consultez le contenu du fichier journal pour l'avancement de l'assembly E:\01\PPE\2eAnnée\C# GSB\GSB\WindowsServices\bin\Debug\WindowsServices.exe.
+Le fichier se trouve à E:\01\PPE\2eAnnée\C# GSB\GSB\WindowsServices\bin\Debug\WindowsServices.InstallLog.
+
+La phase d'installation est terminée et la phase de validation a commencé.
+Consultez le contenu du fichier journal pour l'avancement de l'assembly E:\01\PPE\2eAnnée\C# GSB\GSB\WindowsServices\bin\Debug\WindowsServices.exe.
+Le fichier se trouve à E:\01\PPE\2eAnnée\C# GSB\GSB\WindowsServices\bin\Debug\WindowsServices.InstallLog.
+
+La phase de validation est terminée.
+
+L'installation traitée avec transaction est terminée.
+
+
+La désinstallation a commencé.
+Consultez le contenu du fichier journal pour l'avancement de l'assembly E:\01\PPE\2eAnnée\C# GSB\GSB\WindowsServices\bin\Debug\WindowsServices.exe.
+Le fichier se trouve à E:\01\PPE\2eAnnée\C# GSB\GSB\WindowsServices\bin\Debug\WindowsServices.InstallLog.
+
+La désinstallation est terminée.
+
+Exécution d'une installation traitée avec transaction.
+
+Début de la phase d'installation de l'installation.
+Consultez le contenu du fichier journal pour l'avancement de l'assembly E:\01\PPE\2eAnnée\C# GSB\GSB\WindowsServices\bin\Debug\WindowsServices.exe.
+Le fichier se trouve à E:\01\PPE\2eAnnée\C# GSB\GSB\WindowsServices\bin\Debug\WindowsServices.InstallLog.
+
+La phase d'installation est terminée et la phase de validation a commencé.
+Consultez le contenu du fichier journal pour l'avancement de l'assembly E:\01\PPE\2eAnnée\C# GSB\GSB\WindowsServices\bin\Debug\WindowsServices.exe.
+Le fichier se trouve à E:\01\PPE\2eAnnée\C# GSB\GSB\WindowsServices\bin\Debug\WindowsServices.InstallLog.
+
+La phase de validation est terminée.
+
+L'installation traitée avec transaction est terminée.
+
+Exécution d'une installation traitée avec transaction.
+
+Début de la phase d'installation de l'installation.
+Consultez le contenu du fichier journal pour l'avancement de l'assembly F:\EasyPHP-Devserver-17\eds-www\C# GSB\GSB\WindowsServices\bin\Debug\WindowsServices.exe.
+Le fichier se trouve à F:\EasyPHP-Devserver-17\eds-www\C# GSB\GSB\WindowsServices\bin\Debug\WindowsServices.InstallLog.
+
+Une exception s'est produite lors de la phase d'installation.
+System.ComponentModel.Win32Exception: Le service spécifié existe déjà
+
+La phase de restauration de l'installation a commencé.
+Consultez le contenu du fichier journal pour l'avancement de l'assembly F:\EasyPHP-Devserver-17\eds-www\C# GSB\GSB\WindowsServices\bin\Debug\WindowsServices.exe.
+Le fichier se trouve à F:\EasyPHP-Devserver-17\eds-www\C# GSB\GSB\WindowsServices\bin\Debug\WindowsServices.InstallLog.
+
+La phase de restauration est terminée.
+
+L'installation traitée avec transaction est terminée.
+
+
+La désinstallation a commencé.
+Consultez le contenu du fichier journal pour l'avancement de l'assembly F:\EasyPHP-Devserver-17\eds-www\C# GSB\GSB\WindowsServices\bin\Debug\WindowsServices.exe.
+Le fichier se trouve à F:\EasyPHP-Devserver-17\eds-www\C# GSB\GSB\WindowsServices\bin\Debug\WindowsServices.InstallLog.
+
+La désinstallation est terminée.
+
+Exécution d'une installation traitée avec transaction.
+
+Début de la phase d'installation de l'installation.
+Consultez le contenu du fichier journal pour l'avancement de l'assembly F:\EasyPHP-Devserver-17\eds-www\C# GSB\GSB\WindowsServices\bin\Debug\WindowsServices.exe.
+Le fichier se trouve à F:\EasyPHP-Devserver-17\eds-www\C# GSB\GSB\WindowsServices\bin\Debug\WindowsServices.InstallLog.
+
+Une exception s'est produite lors de la phase d'installation.
+System.ComponentModel.Win32Exception: Le service spécifié a été marqué pour suppression
+
+La phase de restauration de l'installation a commencé.
+Consultez le contenu du fichier journal pour l'avancement de l'assembly F:\EasyPHP-Devserver-17\eds-www\C# GSB\GSB\WindowsServices\bin\Debug\WindowsServices.exe.
+Le fichier se trouve à F:\EasyPHP-Devserver-17\eds-www\C# GSB\GSB\WindowsServices\bin\Debug\WindowsServices.InstallLog.
+
+La phase de restauration est terminée.
+
+L'installation traitée avec transaction est terminée.
