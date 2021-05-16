@@ -12,7 +12,7 @@ namespace TestUnitaireGSB
         [TestMethod]
         public void TestMethod1()
         {
-
+            Assert.AreEqual("23", x.getJour(), "echec erreur" );
             Assert.AreEqual("202103", x.getDateDuJour(), "echec erreur");
             Assert.AreEqual("202103", x.getDateMoisPrecedent(), "echec erreur");
             

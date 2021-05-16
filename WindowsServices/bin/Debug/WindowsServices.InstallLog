@@ -76,3 +76,55 @@ Les paramètres affectés sont :
    logfile = F:\EasyPHP-Devserver-17\eds-www\C# GSB\GSB\WindowsServices\bin\Debug\WindowsServices.InstallLog
    assemblypath = F:\EasyPHP-Devserver-17\eds-www\C# GSB\GSB\WindowsServices\bin\Debug\WindowsServices.exe
 Restauration de l'état précédent du journal des événements pour la source Service1.
+Installation de l'assembly 'F:\EasyPHP-Devserver-17\eds-www\C# GSB\GSB\WindowsServices\bin\Debug\WindowsServices.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = F:\EasyPHP-Devserver-17\eds-www\C# GSB\GSB\WindowsServices\bin\Debug\WindowsServices.InstallLog
+   assemblypath = F:\EasyPHP-Devserver-17\eds-www\C# GSB\GSB\WindowsServices\bin\Debug\WindowsServices.exe
+Installation du service Service1 en cours...
+Le service Service1 a été installé avec succès.
+Création d'une source EventLog Service1 dans le journal Application...
+Validation de l'assembly 'F:\EasyPHP-Devserver-17\eds-www\C# GSB\GSB\WindowsServices\bin\Debug\WindowsServices.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = F:\EasyPHP-Devserver-17\eds-www\C# GSB\GSB\WindowsServices\bin\Debug\WindowsServices.InstallLog
+   assemblypath = F:\EasyPHP-Devserver-17\eds-www\C# GSB\GSB\WindowsServices\bin\Debug\WindowsServices.exe
+Installation de l'assembly 'F:\EasyPHP-Devserver-17\eds-www\C# GSB\GSB\WindowsServices\bin\Debug\WindowsServices.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = F:\EasyPHP-Devserver-17\eds-www\C# GSB\GSB\WindowsServices\bin\Debug\WindowsServices.InstallLog
+   assemblypath = F:\EasyPHP-Devserver-17\eds-www\C# GSB\GSB\WindowsServices\bin\Debug\WindowsServices.exe
+Installation du service Service1 en cours...
+Création d'une source EventLog Service1 dans le journal Application...
+Restauration de l'assembly 'F:\EasyPHP-Devserver-17\eds-www\C# GSB\GSB\WindowsServices\bin\Debug\WindowsServices.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = F:\EasyPHP-Devserver-17\eds-www\C# GSB\GSB\WindowsServices\bin\Debug\WindowsServices.InstallLog
+   assemblypath = F:\EasyPHP-Devserver-17\eds-www\C# GSB\GSB\WindowsServices\bin\Debug\WindowsServices.exe
+Restauration de l'état précédent du journal des événements pour la source Service1.
+Installation de l'assembly 'F:\EasyPHP-Devserver-17\eds-www\C# GSB\GSB\WindowsServices\bin\Debug\WindowsServices.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = F:\EasyPHP-Devserver-17\eds-www\C# GSB\GSB\WindowsServices\bin\Debug\WindowsServices.InstallLog
+   assemblypath = F:\EasyPHP-Devserver-17\eds-www\C# GSB\GSB\WindowsServices\bin\Debug\WindowsServices.exe
+Installation du service Service1 en cours...
+Création d'une source EventLog Service1 dans le journal Application...
+Restauration de l'assembly 'F:\EasyPHP-Devserver-17\eds-www\C# GSB\GSB\WindowsServices\bin\Debug\WindowsServices.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = F:\EasyPHP-Devserver-17\eds-www\C# GSB\GSB\WindowsServices\bin\Debug\WindowsServices.InstallLog
+   assemblypath = F:\EasyPHP-Devserver-17\eds-www\C# GSB\GSB\WindowsServices\bin\Debug\WindowsServices.exe
+Restauration de l'état précédent du journal des événements pour la source Service1.
+Installation de l'assembly 'F:\EasyPHP-Devserver-17\eds-www\C# GSB\GSB\WindowsServices\bin\Debug\WindowsServices.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = F:\EasyPHP-Devserver-17\eds-www\C# GSB\GSB\WindowsServices\bin\Debug\WindowsServices.InstallLog
+   assemblypath = F:\EasyPHP-Devserver-17\eds-www\C# GSB\GSB\WindowsServices\bin\Debug\WindowsServices.exe
+Installation du service Service1 en cours...
+Création d'une source EventLog Service1 dans le journal Application...
+Restauration de l'assembly 'F:\EasyPHP-Devserver-17\eds-www\C# GSB\GSB\WindowsServices\bin\Debug\WindowsServices.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = F:\EasyPHP-Devserver-17\eds-www\C# GSB\GSB\WindowsServices\bin\Debug\WindowsServices.InstallLog
+   assemblypath = F:\EasyPHP-Devserver-17\eds-www\C# GSB\GSB\WindowsServices\bin\Debug\WindowsServices.exe
+Restauration de l'état précédent du journal des événements pour la source Service1.
